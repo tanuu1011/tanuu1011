@@ -1,7 +1,7 @@
 ## About Me
 
 Hello, I'm Tanuli.
-I'm a passionate and an aspiring Data science student.
+I'm a passionate and an aspiring Data science student. I'm currently in my third year studying Bsc in Data Science at Dublin City University, Ireland
 
  
 
