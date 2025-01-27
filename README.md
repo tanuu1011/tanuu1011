@@ -9,6 +9,9 @@ I'm a passionate and an aspiring Data science student. I'm currently in my third
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanuu1011)](https://git.io/streak-stats)
 
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=tanuu1011)  -->
+
+
 ## Skills
 💻 **Programming Languages:** Python, SQL, R, Java     
 
