@@ -13,9 +13,9 @@ This GitHub portfolio showcases my journey, efforts, and learnings as an aspirin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanuu1011\&rank_icon=github&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanuu1011)](https://git.io/streak-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=tanuu1011) 
 
-<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=tanuu1011)  -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=tanuu1011)](https://git.io/streak-stats)  -->
 
 
 ## Skills
