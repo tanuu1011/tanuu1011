@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm Tanuli 👋, a passionate and a curious student who is currently in their penultimate year studying Bachelor's in Data Science at Dublin City University, Ireland. I love diving into data, extracting meaningful insights, and building predictive models that make sense of the world around us.
+Hello, I'm Tanuli 👋, a passionate and a curious student who is currently in their penultimate year studying Data Science in Dublin City University, Ireland. I love diving into data, extracting meaningful insights, and building predictive models that make sense of the world around us.
 
 This GitHub portfolio showcases my journey, efforts, and learnings as an aspiring data scientist. Feel free to explore my projects and see what I've been working on! 🧚‍♀️
 
